@@ -259,15 +259,15 @@
 [RP2040](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/RP2040.pdf)
   - [XIAO](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) [pinout](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/RP2040-XIAO-pinout.jpg)
       [hello.button-blink.RP2040](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040) [board](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040) [components](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.png) [traces](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.top.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.interior.png)
-         [hello.button-blink.RP2040.1.ino](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.1.ino) [1.py](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.1.py) [2.ino](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.2.ino) [2.py](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.2.py) video
-         blink-echo.ino blink-echo.py ws2812.py video
-   Pico Doom
+         [hello.button-blink.RP2040.1.ino](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.1.ino) [1.py](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.1.py) [2.ino](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.2.ino) [2.py](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.2.py) [video](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.mp4)
+         [blink-echo.ino](http://academy.cba.mit.edu/classes/output_devices/RGB/hello.RP2040-XIAO.blink-echo.ino) [blink-echo.py](http://academy.cba.mit.edu/classes/output_devices/RGB/hello.RP2040-XIAO.blink-echo.py) [ws2812.py](http://academy.cba.mit.edu/classes/output_devices/RGB/ws2812.py) [video](http://academy.cba.mit.edu/classes/output_devices/RGB/hello.RP2040-XIAO.blink-echo.mp4)
+   [Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html) [Doom](https://github.com/kilograham/rp2040-doom)
 
-ESP32
-  - ESP32-C3 XIAO pinout
-      hello.button-blink.C3 board components traces interior
-         hello.button-blink.C3.ino hello.button-blink.C3.py video
-  - ESP32-WROOM-32 module versions
+[ESP32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32_datasheet_en.pdf)
+  - [ESP32-C3](https://www.espressif.com/en/products/socs/esp32-c3) [XIAO](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) [pinout](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/XIAO-ESP32C3-pinout.jpg)
+      [hello.button-blink.C3](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.ino) [board](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.png) [components](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.jpg) [traces](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.top.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.interior.png)
+         [hello.button-blink.C3.ino](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.ino) [hello.button-blink.C3.py](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.py) [video](http://academy.cba.mit.edu/classes/embedded_programming/ESP32-C3/hello.button-blink.C3.mp4)
+  - [ESP32-WROOM-32 module](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32-wroom-32_datasheet_en.pdf)  [versions]{https://www.espressif.com/en/products/modules}
       ESP32-WROOM-echo board components traces traces+exterior holes interior
          echo.ino video ring.ino
          Python video
