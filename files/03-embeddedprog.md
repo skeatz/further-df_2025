@@ -256,6 +256,22 @@
     - [CH340G, CH340E](https://www.mpja.com/download/35227cpdata.pdf) [drivers](https://sparks.gogo.co.nz/ch340.html)
 
 ### Development Board Examples
+[RP2040](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/RP2040.pdf)
+  - [XIAO](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) [pinout](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/RP2040-XIAO-pinout.jpg)
+      [hello.button-blink.RP2040](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040) [board](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040) [components](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.png) [traces](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.top.png) [interior](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.interior.png)
+         [hello.button-blink.RP2040.1.ino](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.1.ino) [1.py](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.1.py) [2.ino](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.2.ino) [2.py](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/hello.button-blink.RP2040.2.py) video
+         blink-echo.ino blink-echo.py ws2812.py video
+   Pico Doom
+
+ESP32
+  - ESP32-C3 XIAO pinout
+      hello.button-blink.C3 board components traces interior
+         hello.button-blink.C3.ino hello.button-blink.C3.py video
+  - ESP32-WROOM-32 module versions
+      ESP32-WROOM-echo board components traces traces+exterior holes interior
+         echo.ino video ring.ino
+         Python video
+
 - [ESP32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32_datasheet_en.pdf)
   - [ESP32-WROOM-32](http://academy.cba.mit.edu/classes/networking_communications/ESP32/esp32-wroom-32_datasheet_en.pdf)
     - [hello.ESP32-WROOM](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.png) [components](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.jpg) [traces](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.traces.png) [holes](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.holes.png) [interior](http://academy.cba.mit.edu/classes/networking_communications/ESP32/hello.ESP32-WROOM.interior.png)<br>
@@ -297,7 +313,7 @@
   - [Pin reference for Arduino IDE](https://github.com/qbolsee/ArduinoCore-fab-sam/tree/master/variants/Generic_D11C14A)
 
 
-- assignment
+### assignment
   - individual assignment:
     - browse through a microcontroller [datasheet (rp2040)](http://academy.cba.mit.edu/classes/embedded_programming/RP2040/RP2040.pdf), [datasheet (esp32-c3)](https://www.espressif.com/en/products/socs/esp32-c3)
     - (using a software simulator) program your microcontroller board to do something,
