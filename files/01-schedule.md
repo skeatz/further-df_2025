@@ -14,7 +14,7 @@
 | 09 | 19 Dec 2025 | Mid-term break |
 | 10 | 26 Dec 2025 | Mid-term break | 25 Dec - Christmas |
 | 11 | 2 Jan 2026 | Mid-term break | 1 Jan - New Year |
-| 12 | 9 Jan 2026 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md)| 1 Jan - New Year |
+| 12 | 9 Jan 2026 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md)|  |
 | 13 | 16 Jan 2026 | [Interface & Applications Programming](09-applications.md) |
 | 14 | 23 Jan 2026 | [Interface & Applications Programming](09-applications.md) | 
 | 15 | 30 Jan 2026 | [Module Project](10-project.md)|  |
