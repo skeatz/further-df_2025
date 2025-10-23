@@ -17,7 +17,7 @@
 | 12 | 9 Jan 2026 | [Molding & Casting](07-moldingcasting.md), [3D Machining](08-3dmachining.md)| 1 Jan - New Year |
 | 13 | 16 Jan 2026 | [Interface & Applications Programming](09-applications.md) |
 | 14 | 23 Jan 2026 | [Interface & Applications Programming](09-applications.md) | 
-| 15 | 30 Jan 2026 | [Module Project](10-project.md)| 22 & 23 Jan - Chinese New Year |
+| 15 | 30 Jan 2026 | [Module Project](10-project.md)|  |
 | 16 | 6 Feb 2026| Module project | 
 | 17 | 13 Feb 2026 | Module Project |
 | 18 | 20 Feb 2026 | Presentation | 17 & 18 Feb - CNY |
