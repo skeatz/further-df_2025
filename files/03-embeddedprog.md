@@ -1,4 +1,5 @@
 ## Embedded Programming
+[Embedded Programming Slides](ep1001_L2-1_embedded.pdf)
 
 ### architectures
   - [von Neumann](https://www.javatpoint.com/von-neumann-model), [Harvard](https://www.geeksforgeeks.org/harvard-architecture/)
