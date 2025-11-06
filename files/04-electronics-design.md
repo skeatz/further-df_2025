@@ -1,5 +1,5 @@
 # Electronics Design
-[Electronics Design slides](ep1001_L3_electronics design.pdf)
+[Electronics Design slides](ep1001_L3_electronics%20design.pdf)
 
 ## components
 - [Electronics refresher](https://rdorville.github.io/digfab/presentations/ep1000_electronics/ep1000_electronics.pdf)
