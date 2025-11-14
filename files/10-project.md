@@ -3,9 +3,8 @@
 - Your project must meet the following requirements:
   - The final project must include:
     - 2D and/or 3D designed part(s)
-    - subtractive manufacturing (i.e. cnc) part
+    - subtractive manufacturing (i.e. cnc)  or molded/cast part(s)
     - may include:
-      - molded or cast part(s)
       - 3d printed part(s)
       - laser cut part(s)
     - an embedded microntroller that you designed & fabricated
@@ -58,5 +57,6 @@
 - [Glowing Coffee Table](http://fabacademy.org/2018/labs/fablabuae/students/zahrah-alyahyaee/presentation.mp4)
 - [Smart Ambience Lighting](http://archive.fabacademy.org/fabacademy2017/fablabsingapore/students/135/presentation.mp4)
 - [Smart Earrings](http://fab.academany.org/2020/labs/kamakura/students/toshiki-tsuchiyama/presentation.mp4)
+- [Smart Lego Bricks](https://archive.fabacademy.org/archives/2017/fablabamsterdam/students/60/presentation.mp4)
 
 
