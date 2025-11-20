@@ -1,4 +1,6 @@
 # Electronics Production
+[Electronics Production slides](ep1001_L4_electronics%20production.pdf)
+
 ## Skills
 - making PCB
 - operating a CNC machine
