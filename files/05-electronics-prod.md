@@ -1,5 +1,6 @@
 # Electronics Production
-[Electronics Production slides](ep1001_L4_electronics%20production.pdf)
+[Electronics Production slides](ep1001_L4_electronics%20production.pdf)<br>
+[Florimond Fab Academy - Electronics Production](https://fabacademy.org/2025/labs/singapore/students/florimond-chu/Assignments_Week08.html)
 
 ## Skills
 - making PCB
