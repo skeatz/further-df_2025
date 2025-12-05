@@ -2,20 +2,20 @@
 
 ## Quick References
 - [Introduction to CNC](https://www.3dhubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained/)
-- [FablabSP CNC training materials](https://splms.polite.edu.sg/d2l/le/lessons/94979/lessons/3648077)
+- [FablabSP CNC training materials](./spfablab_cnc%20guide.pdf)
 - [Makehaven CNC Milling I](https://docs.google.com/presentation/d/e/2PACX-1vQDCw06YwtPZXwY7lXZ5PmvVnK-_EOi2mXdK9fskMEipqkx9qXAdsPdtYPEdQXGj_RGMiMTxovjSRQo/pub?start=false&loop=false&delayms=3000#slide=id.p)
 - [Makehaven CNC Milling II](https://docs.google.com/presentation/d/e/2PACX-1vQRnxj6gtvdpeoyxN-pd57x2Vbmz-79GqDKTcKUtWiQCUsRXuskwm3iiYPfCMugeHZOVaK1b3X5sf1F/pub?start=false&loop=false&delayms=3000#slide=id.p)
 
 ## projects
 - [Standing Desk](https://www.forbes.com/sites/kerryflynn/2014/07/31/how-to-make-a-standing-desk-for-under-200-mit-grads-go-digital), [Opendesk](https://www.opendesk.cc/), [AtFab](http://atfab.co/)
-- [Shelter 2.0](http://www.shelter20.com/), [yourHOUSE](http://blog.ted.com/digitally_fabbe/), [FabHouse](https://fablab.hochschule-rhein-waal.de/fabhouse-en), [Fab Lab House](https://archello.com/project/the-fab-lab-house)
+- [Shelter 2.0]([http://www.shelter20.com/](https://www.vectric.com/vectric-community/free-projects/partner-projects/Shelter20)), [yourHOUSE](http://blog.ted.com/digitally_fabbe/), [FabHouse]([https://fablab.hochschule-rhein-waal.de/fabhouse-en](https://www.instructables.com/Fab-House-a-Modular-Open-Source-House-Made-From-Cn/)), [Fab Lab House](https://archello.com/project/the-fab-lab-house)
 - [Ikea Grow Room](https://mymodernmet.com/ikea-growroom-instructions/)
    
 ## machines
-- [[Shaper](https://www.shapertools.com/)
+- [Shaper](https://www.shapertools.com/)
 - [ShopBot](https://www.shopbottools.com/)
 - [EAS](http://panamech.com.my/im/versatile2500.htm)
-- [Onsrud](https://www.cronsrud.com/cnc.html)
+- [Onsrud](https://cncmachines.com/c.r.-onsrud/l?srsltid=AfmBOooasTBNAjBYzYlr1x8ZkmWWD87WMHl7ZV89t_EwpojTJMk9-EY8)
 - [Haas](https://www.haascnc.com/index.html)
 - [Fellesverkstedet](https://github.com/fellesverkstedet/fabricatable-machines)
 
@@ -72,7 +72,7 @@
 - feed rate (inches per minute) / (RPM x number of flutes) 
 - cut depth: ~ tool diameter
 - step-over: ~ tool diameter/2
-- [Shopbot Feeds & Speeds charts](https://www.shopbottools.com/ShopBotDocs/files/FeedsandSpeeds.pdf)
+- [Shopbot Feeds & Speeds charts](https://shopbottools.com/wp-content/uploads/2024/01/FeedsandSpeeds.pdf)
 - [CNC Cookbook Speeds & Feeds](https://www.cnccookbook.com/feeds-speeds/)
 - [Mekanica: CNC Feeds & Speeds Explained](https://www.mekanika.io/blog/learn-1/cnc-feeds-speeds-explained-12)
 - Cutter Shop: [Chip Load chart](https://cutter-shop.com/chip-load-chart/), [speeds & feed](https://cutter-shop.com/feeds-and-speeds-calculator/)
@@ -139,10 +139,9 @@
   - [Fusion 360 CAM overview](https://skippy.org.uk/wp-content/uploads/09_CAM.pdf)
 - [VCarvePro](https://www.shopbottools.com/products/software)
   - [VCarvePro trial](https://www.vectric.com/free-trial/vcarve-pro)
-  - [Getting Started - Wing Rib](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=GettingStarted)
-  - [Importing vectors - 3 Legged table](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=VectorDrawing)
-  - [2D toolpaths - 3 Legged table](https://www.vectric.com/support/tutorials/vcarve-pro?category=TutorialCategories&playlist=2DToolpaths)
-  - [VCarve Pro for Beginners](https://www.youtube.com/watch?v=qt0CPmxFH0s)
+  - [Getting Started - Wing Rib](https://www.youtube.com/watch?v=Ffn1F5D2Mcc)
+  - [How to import vectors & create profile toolpath](https://www.vectric.com/support/tutorials/vcarve-pro/?playlist=getting-started-with-vectric-software&video=import-vectors-and-create-profile-toolpaths)
+  - [2D toolpaths - 3 Legged table](https://www.youtube.com/watch?v=rvJLZSXon2c)
   - [Beginner CNC](https://www.youtube.com/watch?v=l1oh8nekPu4)
 - [FeatureCAM](http://www.featurecam.com/)
 - [Mastercam](http://www.mastercam.com/en-us/)
