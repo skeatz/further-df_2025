@@ -37,7 +37,7 @@
 - [wxWidgets](http://wxwidgets.org/), [wxPython](http://www.wxpython.org/)
   - [panel_png_path.py](http://kokompe.cba.mit.edu/index.html)
 - [Qt](https://www.qt.io/), [PyQt](http://wiki.python.org/moin/PyQt)
-- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/#jump-start)
+- [PySimpleGUI - retired Jan 2026](https://pysimplegui.readthedocs.io/en/latest/#jump-start), [FreeSimpleGUI](https://freesimplegui.readthedocs.io/en/latest/)
 - [forms](http://www.w3.org/TR/html5/forms.html)
 - [jQuery](http://jqueryui.com/widget/), [Bootstrap](http://getbootstrap.com/)
 - [Angular](https://angularjs.org/)
@@ -96,6 +96,7 @@
 - [Fab Academy Input Devices](http://academy.cba.mit.edu/classes/input_devices/index.html)
 - Processing
    - [Processing tutorial](https://processing.org/tutorials/electronics)
+   - [Simple GUI to control LED with Processing](https://my.cytron.io/tutorial/simple-gui-to-control-led-on-arduino-with-processing)
    - [Arduino Radar project](https://howtomechatronics.com/projects/arduino-radar-project/)
 - [P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
 - Python
@@ -114,7 +115,7 @@
    - [PyFirmata - Getting Started](https://realpython.com/arduino-python/)
 - other useful links
    - [ITP Physical Computing](https://itp.nyu.edu/physcomp/lessons/)
-   - [ITP Physical Computing - Labs](https://itp.nyu.edu/physcomp/lessons/)
+   - [ITP Physical Computing - Labs](https://itp.nyu.edu/physcomp/labs/)
    - [Processing - Electronics](https://processing.org/tutorials/electronics)
    - [Makeability](https://makeabilitylab.github.io/physcomp/communication/serial-intro.html)
    
