@@ -88,7 +88,7 @@
 - write an application that interfaces a user with an input &/or output device that you made
 
 ### examples
-- [GUI visualization (Nadieh Fab Academy assignment)](https://fabacademy.org/2021/labs/waag/students/nadieh-bremer/blog/week-15/)
+- [GUI visualization (FabAcad)](https://fabacademy.org/2021/labs/waag/students/nadieh-bremer/blog/week-15/)
 - [Louis](http://archive.fabacademy.org/fabacademy2017/fablabsingapore/students/216/exercise16.html)
 - [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise12.html)
 - [Rodney](http://fabacademy.org/archives/2015/as/students/dorville.rodney/c14_interface_programming.html)
