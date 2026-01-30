@@ -88,6 +88,7 @@
 - write an application that interfaces a user with an input &/or output device that you made
 
 ### examples
+- [GUI visualization (Nadieh Fab Academy assignment)](https://fabacademy.org/2021/labs/waag/students/nadieh-bremer/blog/week-15/)
 - [Louis](http://archive.fabacademy.org/fabacademy2017/fablabsingapore/students/216/exercise16.html)
 - [Noel](http://fab.academany.org/2020/labs/singapore/students/noel-kristian/exercise12.html)
 - [Rodney](http://fabacademy.org/archives/2015/as/students/dorville.rodney/c14_interface_programming.html)
@@ -97,6 +98,7 @@
 - Processing
    - [Processing tutorial](https://processing.org/tutorials/electronics)
    - [Simple GUI to control LED with Processing](https://my.cytron.io/tutorial/simple-gui-to-control-led-on-arduino-with-processing)
+   - [Fun example: Visualization with (your MCU)](https://www.arduino.cc/education/visualization-with-arduino-and-processing/)
    - [Arduino Radar project](https://howtomechatronics.com/projects/arduino-radar-project/)
 - [P5.js](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/)
 - Python
